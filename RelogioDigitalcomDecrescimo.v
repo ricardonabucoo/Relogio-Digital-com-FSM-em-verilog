@@ -12,7 +12,7 @@ module counter_clock_fsm(clk, rst, set, inc, cen, blk, dp7_1, dp7_2, dp7_3, dp7_
     output     [6:0] dp7_3; 
     output     [6:0] dp7_4; 
     output reg [9:0] leds; 
-    
+    output blk;
     supply1 blk ; 
 
     // Definição de estados da FSM
