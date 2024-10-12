@@ -1,0 +1,57 @@
+
+
+
+
+    clk         =   clk_3hz;
+    rst         =   btn0;
+    set         =   btn1;
+    cen         =   sw0;
+    blk         =   segd2.dp_on;
+    inc         =   btn2;
+
+
+    leds[0] = led0 ;
+    leds[1] = led1 ;
+    leds[2] = led2 ;
+    leds[3] = led3 ;
+    leds[4] = led4 ;
+    leds[5] = led5 ;
+    leds[6] = led6 ;
+    leds[7] = led7 ;
+    leds[8] = led8 ;
+    leds[9] = led9 ;
+            
+ 
+    dp7_1[0]      =   segd0.g_on;
+    dp7_1[1]      =   segd0.f_on;
+    dp7_1[2]      =   segd0.e_on;
+    dp7_1[3]      =   segd0.d_on;
+    dp7_1[4]      =   segd0.c_on;
+    dp7_1[5]      =   segd0.b_on;
+    dp7_1[6]      =   segd0.a_on;
+    
+    dp7_2[0]      =   segd1.g_on;
+    dp7_2[1]      =   segd1.f_on;
+    dp7_2[2]      =   segd1.e_on;
+    dp7_2[3]      =   segd1.d_on;
+    dp7_2[4]      =   segd1.c_on;
+    dp7_2[5]      =   segd1.b_on;
+    dp7_2[6]      =   segd1.a_on;
+
+
+    dp7_3[0]      =   segd2.g_on;
+    dp7_3[1]      =   segd2.f_on;
+    dp7_3[2]      =   segd2.e_on;
+    dp7_3[3]      =   segd2.d_on;
+    dp7_3[4]      =   segd2.c_on;
+    dp7_3[5]      =   segd2.b_on;
+    dp7_3[6]      =   segd2.a_on;
+
+
+    dp7_4[0]      =   segd3.g_on;
+    dp7_4[1]      =   segd3.f_on;
+    dp7_4[2]      =   segd3.e_on;
+    dp7_4[3]      =   segd3.d_on;
+    dp7_4[4]      =   segd3.c_on;
+    dp7_4[5]      =   segd3.b_on;
+    dp7_4[6]      =   segd3.a_on;
