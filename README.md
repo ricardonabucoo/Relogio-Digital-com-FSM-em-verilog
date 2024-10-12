@@ -1,0 +1,1 @@
+# Rel-gio-Digital-com-FSM-em-verilog
